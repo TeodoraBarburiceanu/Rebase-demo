@@ -1,4 +1,5 @@
-Main Navbar Added!
+Top Navbar Added!
 footer added!
 signup form added!
 image gallery added!
+
