@@ -1,1 +1,2 @@
 Navbar Added!
+footer added!
